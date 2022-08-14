@@ -1,5 +1,6 @@
 # Autopilot
 Autopilot project represents neural network and machine learning using vanilla javascript.
+The project is live on [netlify](https://autopilot-vanilla-js.netlify.app)
 
 ---
 
