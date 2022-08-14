@@ -1,0 +1,39 @@
+body {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	background-color: #3f6212;
+	overflow: hidden;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 16px;
+}
+
+#verticalButtons {
+	display: flex;
+	flex-direction: column;
+	gap: 16px;
+}
+
+button {
+	border: 0;
+	border-radius: 6px;
+	padding: 4px 16px;
+	cursor: pointer;
+}
+
+button:hover {
+	background-color: #4338ca;
+	color: #fafafa;
+}
+
+#simulation {
+	background: #a1a1aa;
+}
+
+#network {
+	background: #18181b;
+}
+
