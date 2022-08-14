@@ -10,6 +10,8 @@ Autopilot project represents neural network and machine learning using vanilla j
     git clone https://github.com/nyxfor13days/autopilot-using-vanilla-js
     ```
 - Run the `index.html` in your browser.
+- Press `save` button to save the best case.
+- Press `discard` button if you want to start fresh.
 - Done.
 
 ---
